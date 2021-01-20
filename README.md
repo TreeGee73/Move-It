@@ -1,5 +1,5 @@
-# Workout-Tracker
-[License](https://img.shields.io/badge/License-MIT-blue)
+# Workout Tracker
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
@@ -22,6 +22,8 @@ Create a workout tracker using a Mongo database with a Mongoose schema and route
 
   ## Usage
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+
+This app can be run by accessing through Heroku here [https://shrouded-springs-06094.herokuapp.com/](https://shrouded-springs-06094.herokuapp.com/).
 
 ---
 
@@ -56,13 +58,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
   ## Images / Demo Video
-  <!-- A video demonstration of this application can be found [here](https://youtu.be/8QQGD-kPY20).
-  Click the image to launch the video. -->
+  A video demonstration of this application can be found [here](https://youtu.be/WBs3yf6RkR8).
+  Click the image to launch the video.
 
-  <!-- [![Screeshot](Screenshot.jpg)](https://www.youtube.com/watch?v=8QQGD-kPY20 "Demo") -->
-
-  TBA <br />
-<img src="Screenshot.jpg" />
+  [![Screeshot](Screenshot.jpg)](https://www.youtube.com/watch?v=WBs3yf6RkR8 "Demo")
 
 ---
 
