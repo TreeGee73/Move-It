@@ -1,7 +1,7 @@
 # Workout Tracker
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
 ## Table of Contents
   * [Description](#description)
@@ -34,13 +34,6 @@ This app utilizes the following technologies:
  - [MongoDB](https://www.mongodb.com/)
  - [Express](https://www.npmjs.com/package/express)
  - [MongoDB-Atlas](https://www.mongodb.com/cloud/atlas)
- - [Heroku](https://www.heroku.com/)
-
-
----
-
-  ## Installation
-
 
 ---
 
@@ -73,4 +66,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   ## Questions / Contact Details
   This app can be found on my Github page at [TreeGee73](https://github.com/TreeGee73).
 
-  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [treegee73@gmail.com](treegee73@gmail.com).
+  If you have any questions or need to contact me about this app, I can reached either on Github or by email.
